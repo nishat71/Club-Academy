@@ -1,0 +1,59 @@
+.user-profile {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.user-info {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 235, 235);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.user-time {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 235, 235);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    align-items: center;
+    padding: 20px 10px;
+    /* justify-content: center; */
+}
+
+.time {
+    background-color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+    border:none;
+}
+
+.user-break {
+    margin-bottom: 30px;
+}
+
+.activity-btn {
+    background-color: blue;
+    color: #fff;
+    border: none;
+    padding: 15px;
+    width: 90%;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 18px;
+}
+.exercise-field{
+    background-color: rgb(238, 235, 235);
+    padding:5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

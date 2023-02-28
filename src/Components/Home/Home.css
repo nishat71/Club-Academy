@@ -1,0 +1,22 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 10px;
+}
+.logo{
+    font-size: 25px;
+    color:blue;
+    font-weight: 700;
+}
+.logo-icon{
+    margin-right:5px;
+}
+.cart-container{
+    box-shadow: 4px 4px 8px #fff;
+    background-color: #fff;
+    padding:20px 30px
+}
+.players-content{
+    width:90%;
+    margin:auto;
+}
